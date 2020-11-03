@@ -1,0 +1,3 @@
+/home/david/CLionProjects/Worker_Management_System/build/CMakeFiles/rebuild_cache.dir
+/home/david/CLionProjects/Worker_Management_System/build/CMakeFiles/WorkerManager.dir
+/home/david/CLionProjects/Worker_Management_System/build/CMakeFiles/edit_cache.dir
